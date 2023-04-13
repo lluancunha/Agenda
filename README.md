@@ -5,7 +5,7 @@
 ![Print da tela](https://github.com/lluancunha/Agenda/blob/main/img/print.png)
 
 
-## Instalação da versão de demonstração
+## Instalação da agenda
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua maquina local
 
 ### Pré requisitos:
