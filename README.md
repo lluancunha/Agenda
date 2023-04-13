@@ -13,6 +13,6 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 * Java versão 17 ou superior
 * Banco de dados MySQL versão 8
 
-## Instalação:
+### Instalação:
 * Execute o banco de dados MySQL (localhost) como root sem nenhuma senha definida (senha em branco)
 * Crie um novo banco de dados de nome dbagenda
